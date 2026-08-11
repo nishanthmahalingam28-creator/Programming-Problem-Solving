@@ -1,0 +1,22 @@
+
+            ==================================================
+            Date:02/28/26-02-2026
+Category:Food
+Description:Chicken Rice
+Amount:120
+
+           
+ ==================================================
+
+            Date:02/28/26-02-2026
+Category:Food
+Description:Fried Rice
+Amount:120
+
+           
+ ==================================================
+
+    Date:02/28/26-02-2026
+Category:Food
+Description:Chicken Rice
+Amount:30

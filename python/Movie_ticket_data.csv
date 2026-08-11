@@ -1,0 +1,5 @@
+Name,Location,Language,Movie,Seat
+Nishanth,Chennai,Tamil,Leo,"[1, 6, 7, 10, 11]"
+Nishanth,Chennai,Tamil,Leo,"[1, 6, 7, 10]"
+Nishanth,Chennai,Tamil,Leo,"[1, 4]",400
+Nishanth,Chennai,Tamil,Leo,[1],200

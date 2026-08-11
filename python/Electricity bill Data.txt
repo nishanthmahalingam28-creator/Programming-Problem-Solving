@@ -1,0 +1,28 @@
+Customer Name:Vishwanathan
+Service No:Eb2434
+Units:180
+Energy charge:350.0
+Fixed_charge:50
+Total_amount:400.0
+=========================================
+Customer Name:Mahalingam
+Service No:Eb08122007
+Units:270
+Energy charge:680.0
+Fixed_charge:50
+Total_amount:730.0
+=========================================
+Customer Name:Nishanth
+Service No:Eb2676
+Units:180
+Energy charge:350.0
+Fixed_charge:50
+Total_amount:400.0
+=========================================
+Customer Name:Mahalingam
+Service No:Eb081207
+Units:270
+Energy charge:680.0
+Fixed_charge:50
+Total_amount:730.0
+=========================================

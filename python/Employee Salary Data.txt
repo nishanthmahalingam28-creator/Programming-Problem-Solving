@@ -1,0 +1,22 @@
+Employee Id:25Cs170\
+          Name:Nishanth
+          Basic Salary:10000000
+          Allowance:500000
+          Deduction:100000
+          Gross Salary:10500000
+          Net Salary:10400000
+          ==================================================================Employee Id:25Cs179 
+ Name:Nivedita 
+ Basic Salary:1000000 
+ Allowance:20000 
+ Deduction:5000 
+ Gross Salary:1020000 
+ Net Salary:1015000 
+ ==================================================================Employee Id:25Cs183 
+ Name:Poobalan 
+ Basic Salary:1000000 
+ Allowance:10000 
+ Deduction:2000 
+ Gross Salary:1010000 
+ Net Salary:1008000 
+ ==================================================================
